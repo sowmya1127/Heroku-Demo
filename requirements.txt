@@ -1,3 +1,4 @@
+python==3.7.14
 Flask==2.2.2
 gunicorn==20.1.0
 itsdangerous==2.1.2
